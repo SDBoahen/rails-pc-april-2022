@@ -363,6 +363,6 @@ the appropriate HTTP status code:
 
 ```json
 {
-  "error": "#{Woobly} doesn't sell #{Snack} Anymore 🥣😿"
+  "error": "WooblySnack Not Found :("
 }
 ```
